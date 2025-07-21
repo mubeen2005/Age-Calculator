@@ -6,8 +6,8 @@ A simple and interactive **Age Calculator** built with **HTML**, **CSS**, and **
 
 ## 🌐 Live Demo
 
-🔗 [Try it Now](https://your-live-demo-link.com)  
-*(Replace with your deployed GitHub Pages link)*
+🔗 [Try it Now](https://mubeen2005.github.io/Age-Calculator/)
+
 
 ---
 
