@@ -13,7 +13,7 @@ A simple and interactive **Age Calculator** built with **HTML**, **CSS**, and **
 
 ## 🖼️ Preview
 
-![Age Calculator Preview]()  
+![Age-Calculator](Age Calculator.PNG)  
 
 ---
 
